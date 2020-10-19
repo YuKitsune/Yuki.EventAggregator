@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuki.EventAggregator", "Yuki.EventAggregator\Yuki.EventAggregator.csproj", "{E4678A3A-7431-43E6-AC4E-769C89D4B22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuki.EventAggregator.Tests", "Yuki.EventAggregator.Tests\Yuki.EventAggregator.Tests.csproj", "{245AE19B-EA2E-41D7-9A8B-D9398E713AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4678A3A-7431-43E6-AC4E-769C89D4B22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4678A3A-7431-43E6-AC4E-769C89D4B22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4678A3A-7431-43E6-AC4E-769C89D4B22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4678A3A-7431-43E6-AC4E-769C89D4B22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245AE19B-EA2E-41D7-9A8B-D9398E713AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245AE19B-EA2E-41D7-9A8B-D9398E713AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245AE19B-EA2E-41D7-9A8B-D9398E713AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245AE19B-EA2E-41D7-9A8B-D9398E713AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
